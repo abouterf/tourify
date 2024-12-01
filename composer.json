@@ -1,0 +1,18 @@
+{
+    "name": "abouterf/tourify",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Abouterf\\Tourify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erfan Kargosha",
+            "email": "ekargosha88@gmail.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.6"
+    }
+}
